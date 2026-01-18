@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "TubeWeekly Recap",
+  "version": "1.0",
+  "description": "Generate a weekly recap of your YouTube history.",
+  "permissions": ["scripting", "storage"],
+  "host_permissions": [
+    "https://www.youtube.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.jpeg"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
