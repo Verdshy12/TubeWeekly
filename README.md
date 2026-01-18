@@ -1,6 +1,6 @@
 # TubeWeekly 📊
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 **TubeWeekly** is a Chrome Extension that generates a "Spotify Wrapped"-style recap for your YouTube watch history. Instead of waiting for a yearly summary, get insights into your viewing habits **any time you want**.
 
